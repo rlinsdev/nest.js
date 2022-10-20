@@ -49,6 +49,9 @@ $ nest generate controller tweets
 
 # New Module
 $ nest generate module tweets
+
+# Will generate all files to work 
+$ nest generate resource tweets
 ```
 
 ## Test
