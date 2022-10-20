@@ -46,6 +46,9 @@ $ npm run start:prod
 
 # New controller
 $ nest generate controller tweets
+
+# New Module
+$ nest generate module tweets
 ```
 
 ## Test
@@ -59,6 +62,7 @@ $ npm run test:e2e
 
 # test coverage
 $ npm run test:cov
+
 ```
 
 ## Support
